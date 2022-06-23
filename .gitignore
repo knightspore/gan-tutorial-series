@@ -3,3 +3,4 @@ image/
 models/
 .ipynb_checkpoints/
 _models/
+wandb/
