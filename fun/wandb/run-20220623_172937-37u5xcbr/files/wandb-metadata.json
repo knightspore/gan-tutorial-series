@@ -1,0 +1,23 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-23T15:29:45.979308",
+    "startedAt": "2022-06-23T15:29:37.326768",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060 Ti",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:knightspore/gan-tutorial-series.git",
+        "commit": "5962179ebf30ad00f36902e313c8d81264322931"
+    },
+    "email": "cslemon96@gmail.com",
+    "root": "D:/Development/tutorial_gan_series",
+    "host": "SlemsDesktop",
+    "username": "c",
+    "executable": "c:\\Users\\c\\anaconda3\\python.exe"
+}
